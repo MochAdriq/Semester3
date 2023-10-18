@@ -5,5 +5,5 @@ const restaurants = [
     FavoriteDrink: "Coffee",
     FavoriteFood: "Bread",
     isVegan: false,
-  },
+  }
 ];
