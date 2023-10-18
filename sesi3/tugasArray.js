@@ -2,8 +2,8 @@ const restaurants = [
   {
     name: "AimCoffee",
     city: "Sukabumi",
-    Favorite Drink: "Coffee",
-    Favorite Food: "Bread",
+    FavoriteDrink: "Coffee",
+    FavoriteFood: "Bread",
     isVegan: false,
   },
 ];
